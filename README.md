@@ -36,6 +36,7 @@ bash run_few_shot_slot_tagger_protoNet_with_pure_bert.sh \
 ```
 
 ## Code for "A Domain-Transfer Meta Task Design Paradigm for Few-Shot Slot Tagging"
+```
 @inproceedings{yang2023domain,
   title={A Domain-Transfer Meta Task Design Paradigm for Few-Shot Slot Tagging},
   author={Yang, Fengyi and Zhou, Xi and Yang, Yating and Ma, Bo and Dong, Rui and Atawulla, Abibulla},
@@ -45,6 +46,6 @@ bash run_few_shot_slot_tagger_protoNet_with_pure_bert.sh \
   pages={13887--13895},
   year={2023}
 }
-
+```
 
 
